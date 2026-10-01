@@ -1,0 +1,6 @@
+.tools/
+.gradle/
+local.properties
+**/build/
+.vscode/settings.json
+docs/screenshots/

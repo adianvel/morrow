@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Morrow</string>
+    <string name="accessibility_service_name">Morrow app blocker</string>
+    <string name="block_title">Your time in %1$s is up.</string>
+    <string name="block_reset">Your daily allowance resets at midnight.</string>
+    <string name="launch_title">Want to open %1$s?</string>
+    <string name="launch_body">Take a moment. It opens after 15 seconds.</string>
+    <string name="go_home">Go home</string>
+    <string name="accessibility_service_description">Adds a 15-second pause before selected apps open, then shows a pause screen when their daily allowance is used. Morrow reads app-change events only; it does not read screen text or taps.</string>
+    <plurals name="launch_countdown">
+        <item quantity="one">Opening in %1$d second</item>
+        <item quantity="other">Opening in %1$d seconds</item>
+    </plurals>
+</resources>
